@@ -2,6 +2,10 @@ p {
     text-align: center
 }
 
+#banner {
+    width: 100%;
+}
+
 body {
     background: #81a0f5
 }
